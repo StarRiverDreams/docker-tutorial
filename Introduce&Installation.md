@@ -21,7 +21,7 @@ AppA AppB AppC ...
 - does not need full OS
 - deployment
 - locally testing
-- ...
+
 
 ## Installation
 [docker download](https://docs.docker.com/install)
